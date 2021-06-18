@@ -1,0 +1,6 @@
+Esta es la historia de Ismael 
+
+Ismael tiene 37 años y quiere aprender git,
+ahora voy a modificar esta madre
+
+Hoy hablaremos de su vida y obra maestra.
